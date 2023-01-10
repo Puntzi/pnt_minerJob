@@ -1,0 +1,17 @@
+{
+    "start_working": "E - To start working",
+    "started_working": "Here you have your pickaxe you can start mining the rocks on your right",
+    "stop_working": "E - To stop working",
+    "stoped_working": "Done working for today give me back the pickaxe",
+    "start_mining": "E - To mine this rock",
+    "rock_already_mined": "This rock is already mined wait some time",
+    "mined_failed": "You failed",
+    "ped_blip_name": "Miner",
+    "rock": "Rock",
+    "cant_carry_more": "Can't carry more items",
+    "title_sell_menu": "Here you can sell the ores",
+    "sell": "E - To sell Items",
+    "sell_item": "Sell %s",
+    "items_sold": "You sold %s %s for %s $",
+    "no_items": "You don't have enough items to sell"
+}
